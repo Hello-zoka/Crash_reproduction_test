@@ -69,7 +69,7 @@ public class ConcurrentModificationTest {
 ```
 I had to refactor it a bit to make code compile and it reproduced expected error, except that message was in english, not French(but it was easy to fix, just by asking chatgpt "how to change language of exception message?").
 
-In this case, we can see that ChatGPT was not really sure if it works, it asked me to try modify some code to reproduce this bug. It wasn't able to really find the problem and test it, but offered some ways to try, which fortunatlly were succesfull.
+In this case, we can see that ChatGPT was not really sure if it works, it asked me to try modify some code to reproduce this bug. It wasn't able to really find the problem and test it, but offered some approaches to try, which fortunatlly were succesfull.
 
 ## Summary
 
